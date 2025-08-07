@@ -22,7 +22,7 @@ This project displays an interactive word cloud based on topic data, including v
 ## Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/mstefan44/Challange.git
+git clone https://github.com/mstefan44/word-cloud-challenge.git
 
 ### 2. Install dependencies
 npm install
