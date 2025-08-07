@@ -23,7 +23,6 @@ This project displays an interactive word cloud based on topic data, including v
 
 ### 1. Clone the repo
 git clone https://github.com/mstefan44/Challange.git
-cd your-repo-name
 
 ### 2. Install dependencies
 npm install
